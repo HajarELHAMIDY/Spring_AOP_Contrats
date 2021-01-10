@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-09T21:52:42</date>
+  <millis>1610225562672</millis>
+  <sequence>4</sequence>
+  <logger>com.glsid.contrats.aspects.Logging</logger>
+  <level>INFO</level>
+  <class>com.glsid.contrats.aspects.Logging</class>
+  <method>log</method>
+  <thread>22</thread>
+  <message>Avant List com.glsid.contrats.web.ContratController.index()</message>
+</record>
+<record>
+  <date>2021-01-09T21:52:42</date>
+  <millis>1610225562994</millis>
+  <sequence>5</sequence>
+  <logger>com.glsid.contrats.aspects.Logging</logger>
+  <level>INFO</level>
+  <class>com.glsid.contrats.aspects.Logging</class>
+  <method>log</method>
+  <thread>22</thread>
+  <message>Après List com.glsid.contrats.web.ContratController.index()</message>
+</record>
+<record>
+  <date>2021-01-09T21:52:42</date>
+  <millis>1610225562994</millis>
+  <sequence>6</sequence>
+  <logger>com.glsid.contrats.aspects.Logging</logger>
+  <level>INFO</level>
+  <class>com.glsid.contrats.aspects.Logging</class>
+  <method>log</method>
+  <thread>22</thread>
+  <message>Durée : 326ms</message>
+</record>
+<record>
+  <date>2021-01-09T21:52:42</date>
+  <millis>1610225562995</millis>
+  <sequence>7</sequence>
+  <logger>com.glsid.contrats.aspects.Logging</logger>
+  <level>INFO</level>
+  <class>com.glsid.contrats.aspects.Logging</class>
+  <method>log</method>
+  <thread>22</thread>
+  <message>Avant List com.glsid.contrats.web.ContratController.index()</message>
+</record>
+<record>
+  <date>2021-01-09T21:52:42</date>
+  <millis>1610225562997</millis>
+  <sequence>8</sequence>
+  <logger>com.glsid.contrats.aspects.Logging</logger>
+  <level>INFO</level>
+  <class>com.glsid.contrats.aspects.Logging</class>
+  <method>log</method>
+  <thread>22</thread>
+  <message>Après List com.glsid.contrats.web.ContratController.index()</message>
+</record>
+<record>
+  <date>2021-01-09T21:52:42</date>
+  <millis>1610225562997</millis>
+  <sequence>9</sequence>
+  <logger>com.glsid.contrats.aspects.Logging</logger>
+  <level>INFO</level>
+  <class>com.glsid.contrats.aspects.Logging</class>
+  <method>log</method>
+  <thread>22</thread>
+  <message>Durée : 2ms</message>
+</record>
